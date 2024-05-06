@@ -9,8 +9,6 @@ parts:
         title: 客户端服务手册
   - caption: 研发
     chapters:
-      - url: https://quanttide.github.io/quanttide-handbook-for-developers/
-        title: 开发者手册
       - url: https://quanttide.github.io/quanttide-handbook-of-developer-tools/
         title: 开发者工具手册
       - url: https://quanttide.github.io/quanttide-handbook-of-devops/
@@ -31,28 +29,8 @@ parts:
     chapters:
       - url: https://quanttide.github.io/quanttide-handbook-of-management/
         title: 团队管理手册
-      - file: product_developing.md
-        sections:
-        - url: https://quanttide.github.io/quanttide-handbook-of-product-developing/
-          title: 产品研发手册
-        - url: https://quanttide.github.io/quanttide-handbook-of-c-language/
-          title: C语言手册
-        - url: https://quanttide.github.io/quanttide-handbook-of-django/
-          title: Django手册
-        - url: https://quanttide.github.io/quanttide-handbook-of-docker/
-          title: Docker手册
-        - url: https://quanttide.github.io/quanttide-handbook-of-fastapi/
-          title: FastAPI手册
-        - url: https://quanttide.github.io/quanttide-handbook-of-figjam/
-          title: FigJam手册
-        - url: https://quanttide.github.io/quanttide-handbook-of-figma/
-          title: Figma手册
-        - url: https://quanttide.github.io/quanttide-handbook-of-flutter/
-          title: Flutter手册
-        - url: https://quanttide.github.io/quanttide-handbook-of-openapi/
-          title: OpenAPI手册
-        - url: https://quanttide.github.io/quanttide-handbook-of-python/
-          title: Python手册
+      - url: https://quanttide.github.io/quanttide-handbook-of-product-developing/
+        title: 产品研发手册
       - url: https://quanttide.github.io/quanttide-handbook-of-collaboration 
         title: 团队协作手册
       - url: https://quanttide.github.io/quanttide-handbook-of-project-management/
@@ -75,6 +53,26 @@ parts:
         title: 创赛管理手册
       - url: https://quanttide.github.io/quanttide-handbook-of-new-media/
         title: 新媒体管理手册
+  - caption: 语言、框架和工具
+    chapters:
+      - url: https://quanttide.github.io/quanttide-handbook-of-c-language/
+        title: C语言手册
+      - url: https://quanttide.github.io/quanttide-handbook-of-django/
+        title: Django手册
+      - url: https://quanttide.github.io/quanttide-handbook-of-docker/
+        title: Docker手册
+      - url: https://quanttide.github.io/quanttide-handbook-of-fastapi/
+        title: FastAPI手册
+      - url: https://quanttide.github.io/quanttide-handbook-of-figjam/
+        title: FigJam手册
+      - url: https://quanttide.github.io/quanttide-handbook-of-figma/
+        title: Figma手册
+      - url: https://quanttide.github.io/quanttide-handbook-of-flutter/
+        title: Flutter手册
+      - url: https://quanttide.github.io/quanttide-handbook-of-openapi/
+        title: OpenAPI手册
+      - url: https://quanttide.github.io/quanttide-handbook-of-python/
+        title: Python手册
   - caption: 学科/行业
     chapters:
       - url: https://quanttide.github.io/quanttide-handbook-of-higher-education/
